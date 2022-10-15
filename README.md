@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hellom38
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me dev.hellom38.hireable@gmail.com
 
